@@ -1,0 +1,53 @@
+Calcular el salario semanal de los empleados de una empresa, sabiendo que éstos se calculan con base en las horas 
+semanales trabajadas y de acuerdo con un precio especificado por horas, si se pasan de cuarenta horas semanales, 
+las horas extraordinarias se pagarán a razón de 1.5 veces la hora ordinaria.
+
+Entradas:
+Horas semanales trabajadas HST valor Entero
+precio por hora PxH valor real (sin decimanles)
+Restricciones:
+HST y PxH sean mayor que cero.
+
+Algoritmo:
+1 pedir Horas semanales trabajadas HST
+2 validar horas semanales trabajadas si es mayor que cero HST <= 0 terminar
+3 pedir Precio por hora PxH
+4 validar Precio por Hora  sea mayor que cero   PxH <= 0 terminar
+4.5 SSE = 0
+5 validar si HST > 40 si es mayor salario semanal estraord SSE = (((HST - 40) * (PxH * 1.5))
+5.5  cambia el valor a HST = 40
+6 salario semanal SS = SSE + (HST * PxH)
+7 mostrar el resultado SS
+
+Salidas:
+Mostrar Salario Semanal SS  
+
+pruebas de escritorio
+HST 0
+termina
+
+HST 40.5
+termina
+
+HST 45
+PxH 0
+termina
+
+HST 45
+PxH 150
+HST > 0 continua
+PXH > 0 Continua
+SSE = (((45 - 40) * (150 * 1.5)) 
+      (5 * (150 * 1.5) = 1125
+SS  = SSE + (150 * 40))
+      1125 + 6000 = 7125
+
+Mostrar SS : 7125
+
+HST 40
+PxH 150
+HST > 0 continua
+PxH > 0 Continua
+SSE = 0.
+SS = 0 + 6000
+Mostrar SS: 6000
