@@ -1,0 +1,5 @@
+Escribe dos ejemplos de lenguaje de programación que dependen de un intérprete y al menos dos de lenguajes compilados.
+lenguaje de programación que dependen de un intérprete:
+Java script, Pyton, Ruby
+lenguajes compilados:
+Java, C, C++, asembler, cobol
