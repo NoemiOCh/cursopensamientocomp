@@ -1,14 +1,17 @@
 De acuerdo a la siguiente acción, escribe en este espacio, qué parte pertenece a la entrada, proceso y resultado de 
 un algoritmo.
 
-Entrada: Para lavarse las manos necesitamos: un jabón, un recipiente con agua, una toalla y nuestras manos. 
+Entrada: 
+Para lavarse las manos necesitamos: un jabón, un recipiente con agua, una toalla y nuestras manos. 
+Aqui la entrada real son las manos.
 Proceso:
-Tomamos el recipiente con agua y vaciamos un poco para humedecer nuestras manos. 
-Tomamos el jabón y lo frotamos entre nuestras manos de tal manera que genere espuma. 
-Dejamos a un lado el jabón y con la espuma producida frotamos nuestras manos y entrelazamos nuestros dedos. 
-Tomamos el recipiente con agua y enjuagamos hasta que retiramos toda la espuma y los residuos de jabón. 
-Revisamos si nuestras manos están lo suficientemente limpias, si no, realizamos el procedimiento anterior. 
-Si nuestras manos están lo suficientemente limpias, tomamos la toalla y secamos el agua de nuestras manos. 
-Salida: ¡Listos! Tenemos nuestras manos limpias.
+1.-Tomamos el recipiente con agua y vaciamos un poco para humedecer nuestras manos. 
+2.-Tomamos el jabón y lo frotamos entre nuestras manos de tal manera que genere espuma. 
+3.- Dejamos a un lado el jabón y con la espuma producida frotamos nuestras manos y entrelazamos nuestros dedos. 
+4.- Tomamos el recipiente con agua y enjuagamos hasta que retiramos toda la espuma y los residuos de jabón. 
+5.- Revisamos si nuestras manos están lo suficientemente limpias, si no, realizamos el procedimiento anterior paso 4. 
+6.- Si nuestras manos están lo suficientemente limpias, tomamos la toalla y secamos el agua de nuestras manos. 
+Salida:
+¡Listos! Tenemos nuestras manos limpias.
 
 
