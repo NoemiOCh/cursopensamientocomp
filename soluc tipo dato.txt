@@ -1,0 +1,12 @@
+Tipo de datos
+Menciona al menos 3 tipos de datos que existen:
+
+Datos primitivos:
+Numerico (Int, Float)
+Caracter (Char, String)
+Lógico   (Booleano)
+
+Compuestos:
+codigo ASCII
+Unicode (16 bits)
+UTF8
